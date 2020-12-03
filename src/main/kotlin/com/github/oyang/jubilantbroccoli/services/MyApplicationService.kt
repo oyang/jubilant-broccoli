@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.oyang.jubilantbroccoli.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.oyang.jubilantbroccoli.MyBundle
 
 class MyApplicationService {
 
